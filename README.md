@@ -7,6 +7,6 @@ File overview:<br>
 
 * `voice.ipynb` - the code to summarize text<br>
 * `marketplace.mp3` - a 45 second audio clip you can use to test the model<br>
-* `marketplace_full.mp3` - a 30 minute audio clip you can use to test the model<br>
+* `marketplace_full.mp3` - a 30 minute audio clip you can use to test the model<br> 
 * `transcript.txt` - the full transcript of `marketplace_full`<br>
 
